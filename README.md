@@ -1,7 +1,7 @@
 # 2WINS AI Hackathon #1 手法解説
 
 本リポジトリは、間取り図画像から部屋名を予測するハッカソンに参加した際のソリューションを公開したものです。  
-**Public Score: 1.00 / Private Score: 100** を達成しました。
+**Public Score: 1.00 / Private Score: 1.00** を達成しました。
 
 ## コンペ元ページ
 [https://github.com/2WINS-Inc/ai-hackathon-01-low-res-ocr](https://github.com/2WINS-Inc/ai-hackathon-01-low-res-ocr)
